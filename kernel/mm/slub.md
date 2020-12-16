@@ -1,4 +1,9 @@
 # slub
+slub学习资料网站：
+https://resources.infosecinstitute.com/topic/exploiting-linux-kernel-heap-corruptions-slub-allocator/#L27
+http://prog3.com/sbdm/blog/vanbreaker/article/details/7694648
+
+
 
 ![https://hammertux.github.io/img/SLUB-DS.png](pic/SLUB-DS.png)
 
